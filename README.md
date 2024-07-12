@@ -10,9 +10,9 @@
  
  🔭 I’m currently  **a student in Faculty of engineering ainshams University**
  
- 🌱 I’m currently learning **Problem Solving Skills, Embedded Systems, Machine Learning**
+ 🌱 I’m currently learning **Problem Solving Skills, backend web development, Machine Learning**
 
-💬 Ask me about **Programming language, Embedeed Systems... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Programming language, Embedeed Systems... or anything [here](https://github.com/shahed137003/shahed137003/issues)**
 
 
  </div>
@@ -27,3 +27,27 @@
 
 
  <hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,cpp,c,arduino,discord,ai,matlab" /><br>
+</div>
+
+<br/>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shahed137003&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shahed137003&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shahed137003&langs_count=3&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
