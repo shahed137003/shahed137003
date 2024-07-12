@@ -1,8 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FF69B4&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+shahed+Mohamed!;" />
 </h1>
+<img src="https://raw.githubusercontent.com/shahed137003/shahed137003/main/shahd mohamed.png">
 
-<h3 align="center">A Computer enginner 💻✨ </h3>
 
 <br/>
 
