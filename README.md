@@ -10,7 +10,7 @@
  
  🔭 I’m currently  **a student in Faculty of engineering ainshams University**
  
- 🌱 I’m currently learning **Problem Solving Skills, backend web development, Machine Learning**
+ 🌱 I’m currently learning **Problem Solving Skills, frontend web development, Machine Learning**
 
 💬 Ask me about **Programming language, Embedeed Systems... or anything [here](https://github.com/shahed137003/shahed137003/issues)**
 
