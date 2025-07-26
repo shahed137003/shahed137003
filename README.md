@@ -2,6 +2,11 @@
 <h1 align="center">
   Hey there! 👋 I'm <span style="color:#d63384;">🎀 Shahd Mohamed 🎀</span>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F778BA&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;AI+%26+Web+Development+Lover;Creative+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
 <h3 align="center">
   💻 Computer Engineer | 🌸 AI Enthusiast | 🌐 Front-End Developer
 </h3>
